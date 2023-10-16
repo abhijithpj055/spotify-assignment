@@ -9,6 +9,7 @@
 .child1{
     background-color: black;
     width: 20%;
+    height: 100vh;
     margin-right: 5px;
     margin-top:10px ;
 }
@@ -16,6 +17,7 @@
 .child2{
 
     width:80%;
+    height:100vh;
     background-color: #333;
     border-color:  black;
     border-radius: 15px;
